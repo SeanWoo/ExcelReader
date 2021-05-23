@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/dist/main.263ad439.js",
+    "runtime.js": "/dist/runtime.1c264d9c.js"
+  },
+  "entrypoints": [
+    "/dist/main.263ad439.js",
+    "/dist/runtime.1c264d9c.js"
+  ]
+}
